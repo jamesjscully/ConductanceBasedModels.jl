@@ -1,0 +1,13 @@
+name = "ConductanceBasedModels"
+uuid = "ef007595-6043-4677-b1b3-492445e360dd"
+authors = ["Jack Scully"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
